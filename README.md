@@ -1,5 +1,4 @@
-# Quer aprender a tocar guitarra, violão ou outro instrumento?
-# Conheça algumas extensões do Chrome que podem te auxiliar
+# Quer aprender a tocar guitarra, violão ou outro instrumento? Conheça algumas extensões do Chrome que podem te auxiliar
 
 ## Dividir para conquistar
 
