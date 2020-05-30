@@ -1,4 +1,5 @@
-# Conheça algumas ferramentas que podem auxiliar nos treinos de guitarra e violão
+# Quer aprender a tocar guitarra, violão ou outro instrumento?
+# Conheça algumas extensões do Chrome que podem te auxiliar
 
 ## Dividir para conquistar
 
